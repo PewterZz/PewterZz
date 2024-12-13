@@ -13,7 +13,3 @@ src="https://img.shields.io/badge/Development_Blog-1d1d1d.svg?style=for-the-badg
 > I do fullstack development and AI, I love working on new things and I am always looking for oppurtunities to expand my skills.
 > 
 > If you enjoy my code, blogs, or tools, feel free to reach out and connect!
-
----
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=Development+Blog%3A)](https://git.io/typing-svg)
