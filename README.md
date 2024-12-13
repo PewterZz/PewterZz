@@ -1,6 +1,5 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/peternelsonsubrata" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="https://github.com" title="Terraform Components"><img src="https://img.shields.io/badge/Terraform_Components-5C4EE6.svg?style=for-the-badge" alt="Terraform AWS Components"></a>
   <a href="https://peternelsonsub.com/" title="Personal Website"><img
 src="https://img.shields.io/badge/Development_Blog-1d1d1d.svg?style=for-the-badge" alt="Terraform AWS Components"></a>
 </p>
