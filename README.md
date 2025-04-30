@@ -1,17 +1,4 @@
 <p align="center">
-  <!-- Neon Waving Hand Animation -->
-  <p align="center">
-  <!-- Moving ASCII Wave with Marquee + Emoji accents -->
-    <marquee behavior="alternate" scrollamount="6" width="80%">
-      🌊🌊🌊   ⢀⣴⣶⣄⠀⠀⠀⣠⣶⣦⡀   🌊🌊🌊
-      <br/>
-      🌊🌊   ⣿⠋⠉⠙⢿⣦⣴⡿⠋⠉⠙⢿⣦⣴⡿   🌊🌊
-      <br/>
-      🌊     ⣿⠀⠀⠀⢸⣿⣿⡇⠀⠀⠀⢸⣿⣿⠀⢸     🌊
-      <br/>
-      🌊🌊   ⠻⣦⣄⣠⡿⠋⠙⢿⣄⣀⣠⣾⠋⠙⢿⣄⡉   🌊🌊
-    </marquee>
-  </p>
 
 
   <!-- Neon Typing Animation -->
