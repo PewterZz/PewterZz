@@ -39,22 +39,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pewterzz&layout=compact&theme=dark" alt="Top Languages" width="48%"/>
 </p>
 
-<p align="center">
-  <!-- GitHub Streak Stats (Vercel) -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/streak-stats?user=pewterzz&theme=dark&background=0A0A0A"
-    alt="GitHub Streak"
-    width="48%"
-  />
-
-  <!-- Contribution Graph (Activity Graph is still Heroku, but works better with proper tags) -->
-  <img
-    src="https://activity-graph.herokuapp.com/graph?username=pewterzz&theme=github&hide_border=true"
-    alt="Contribution Graph"
-    width="48%"
-  />
-</p>
-
 
 ---
 
