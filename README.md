@@ -41,8 +41,8 @@
 
 <p align="center">
   <!-- Streaks & Calendar -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=peternelsonsubrata&theme=dark&background=0A0A0A" alt="GitHub Streak" width="48%"/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=peternelsonsubrata&theme=github&hide_border=true" alt="Contribution Graph" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pewterzz&theme=dark&background=0A0A0A" alt="GitHub Streak" width="48%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=pewterzz&theme=github&hide_border=true" alt="Contribution Graph" width="48%"/>
 </p>
 
 ---
