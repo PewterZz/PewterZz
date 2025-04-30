@@ -12,7 +12,7 @@
 - 🔭 Currently building fullstack & AI
 - 🌱 Exploring **MLOps**, **Kubernetes**, **Serverless**, **Rust**  
 - 👯 Open to collaborating on open-source AI & DevOps projects  
-- 🤔 Ask me about JavaScript, TypeScript, Python, Node.js, TensorFlow  
+- 🤔 Ask me about JavaScript, TypeScript, Python, Node.js, Pytorch  
 - 📫 Reach me: [peternelsonsubrata@gmail.com](mailto:peternelsonsubrata@gmail.com)
 
 ---
