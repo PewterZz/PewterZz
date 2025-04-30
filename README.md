@@ -1,6 +1,4 @@
 <p align="center">
-
-
   <!-- Neon Typing Animation -->
   <img
     src="https://readme-typing-svg.demolab.com?font=NeonFuture&pause=1000&color=00FF99,FF0066,00CCFF,FF9900&center=true&width=600&lines=Hey,+I'm+Peter+Nelson+Subrata!;Fullstack+Dev+|+AI+Enthusiast;Building+the+Future+💡"
