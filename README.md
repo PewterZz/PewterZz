@@ -37,25 +37,11 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=pewterzz
-      &theme=dark&hide_border=true"
-    alt="GitHub Streak"
-  />
-  <img
-    src="https://activity-graph.herokuapp.com/graph?username=pewterzz
-      &theme=react-dark&hide_border=true"
-    alt="Contribution Graph"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=pewterzz&theme=dracula&column=4&margin-w=15" />
 </p>
 
-## 🎧 Now Playing
 <p align="center">
-  <img
-    src="https://spotify-readme.now.sh/api?background_color=121212&color=1db954
-      &size=compact"
-    alt="Now Playing on Spotify"
-  />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%"/>
 </p>
 
 ---
