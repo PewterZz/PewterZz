@@ -40,10 +40,21 @@
 </p>
 
 <p align="center">
-  <!-- Streaks & Calendar -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pewterzz&theme=dark&background=0A0A0A" alt="GitHub Streak" width="48%"/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=pewterzz&theme=github&hide_border=true" alt="Contribution Graph" width="48%"/>
+  <!-- GitHub Streak Stats (Vercel) -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/streak-stats?user=pewterzz&theme=dark&background=0A0A0A"
+    alt="GitHub Streak"
+    width="48%"
+  />
+
+  <!-- Contribution Graph (Activity Graph is still Heroku, but works better with proper tags) -->
+  <img
+    src="https://activity-graph.herokuapp.com/graph?username=pewterzz&theme=github&hide_border=true"
+    alt="Contribution Graph"
+    width="48%"
+  />
 </p>
+
 
 ---
 
