@@ -37,10 +37,24 @@
 </p>
 
 <p align="center">
-  <!-- Animated Contribution Graph -->
   <img
-    src="https://github-readme-activity-graph.cyclic.app/graph?username=pewterzz&theme=react-dark&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com?user=pewterzz
+      &theme=dark&hide_border=true"
+    alt="GitHub Streak"
+  />
+  <img
+    src="https://activity-graph.herokuapp.com/graph?username=pewterzz
+      &theme=react-dark&hide_border=true"
     alt="Contribution Graph"
+  />
+</p>
+
+## 🎧 Now Playing
+<p align="center">
+  <img
+    src="https://spotify-readme.now.sh/api?background_color=121212&color=1db954
+      &size=compact"
+    alt="Now Playing on Spotify"
   />
 </p>
 
