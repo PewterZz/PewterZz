@@ -1,10 +1,6 @@
 <!-- Profile README for @pewterzz | Clean, fast-loading, mobile-friendly -->
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Peter+Nelson+Subrata!;Full‑Stack+Dev+%7C+AI+Engineer;Building+useful+systems+at+scale+%F0%9F%9A%80" alt="Typing intro"/>
-</p>
-
 
 <p align="center">
   <a href="https://github.com/pewterzz?tab=followers">
@@ -33,28 +29,6 @@
 	•	Exploring MLOps, Kubernetes, Serverless, Rust.
 	•	Ask me about TypeScript, Python, Node.js, PyTorch.
 
-⸻
-
-🧰 Tech I Use
-
-<p>
-  <img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-  <img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript"/>
-  <img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>
-  <img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"/>
-  <img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js"/>
-  <img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"/>
-  <img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes"/>
-  <img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch"/>
-  <img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust"/>
-</p>
-
-
-
-⸻
-
-📈 Stats (auto‑updated, light/dark aware)
-
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=pewterzz&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent&hide_border=true&custom_title=Peter%20Nelson%20Subrata%20%E2%80%93%20GitHub%20Stats"
@@ -78,24 +52,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=pewterzz&theme=dracula&no-bg=true&no-frame=true&row=1&column=7" alt="Trophies"/>
 </p>
 
-
-
-⸻
-
-✨ Featured Projects
-
-Replace with a few high‑signal repos you want recruiters to see first.
-
-	•	🔒 Project A – one‑liner impact.
-	•	🎧 Project B – one‑liner impact.
-	•	⚡ Project C – one‑liner impact.
-
-⸻
-
-🤝 Open to Collaborate
-
-If you’re building AI tooling, developer experience, or infra that needs polish, I’d love to chat.
-
-⸻
-
-Tip: this README uses hosted widgets with a transparent theme so it looks good on both light and dark GitHub themes and avoids layout breakage. Keep sections short so it renders well on mobile.
