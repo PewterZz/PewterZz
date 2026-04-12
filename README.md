@@ -21,10 +21,6 @@
 </p>
 
 
-
-⸻
-
-
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=pewterzz&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent&hide_border=true&custom_title=Peter%20Nelson%20Subrata%20%E2%80%93%20GitHub%20Stats"
