@@ -24,10 +24,6 @@
 
 ⸻
 
-🚀 About Me
-	•	Building end‑to‑end products across frontend, backend, and AI.
-	•	Exploring MLOps, Kubernetes, Serverless, Rust.
-	•	Ask me about TypeScript, Python, Node.js, PyTorch.
 
 <p align="center">
   <img
@@ -48,7 +44,4 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pewterzz&theme=dracula&no-bg=true&no-frame=true&row=1&column=7" alt="Trophies"/>
-</p>
 
